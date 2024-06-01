@@ -1,6 +1,6 @@
 name: ci
  
-# execute this workflow automatically when a we push to master
+# Execute this workflow automatically when a we push to master
 on:
   push:
     branches: [ main ]
